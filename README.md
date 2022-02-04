@@ -26,7 +26,8 @@ This script is the combination of many scripts and gists from github with featur
 • Network Tweaks
 
 • AMD and NVDIA GPU Tweaks
-#How to run the script
+
+# How to run the script
 • Download the .zip file on the main page of the GitHub and extract the .zip file to your desired location
 
 • Right-click the PowerShell file that you'd like to run and click on "Run With PowerShell"
