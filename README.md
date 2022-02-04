@@ -27,6 +27,11 @@ This script is the combination of many scripts and gists from github with featur
 
 • AMD and NVDIA GPU Tweaks
 #How to run the script
+• Download the .zip file on the main page of the GitHub and extract the .zip file to your desired location
+
+• Right-click the PowerShell file that you'd like to run and click on "Run With PowerShell"
+
+• This will allow the script to run without having to do the above steps but Powershell will ask if you're sure you want to run this script.
 
 # Disclaimer
 WARNING: I do NOT take responsibility for what may happen to your system! Run scripts at your own risk!
