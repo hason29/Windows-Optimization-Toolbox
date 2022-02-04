@@ -26,4 +26,9 @@ This script is the combination of many scripts and gists from github with featur
 • Network Tweaks
 
 • AMD and NVDIA GPU Tweaks
+#How to run the script
+
+# Disclaimer
+WARNING: I do NOT take responsibility for what may happen to your system! Run scripts at your own risk!
+
 
