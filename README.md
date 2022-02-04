@@ -35,6 +35,6 @@ This script is the combination of many scripts and gists from github with featur
 
 
 # Disclaimer
-WARNING: I do NOT take responsibility for what may happen to your system! Run scripts at your own risk!
+WARNING: I do NOT take responsibility for what may happen to your system! Run script at your own risk!
 
 
