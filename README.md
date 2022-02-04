@@ -1,5 +1,5 @@
 # Windows-Optimization-Toolbox
-This script is the combination of many scripts and gists from github with features of my own. This script is build to optimize windows for maximum performance
+This script is the combination of many scripts and gists from github with features of my own. This script is built to optimize windows for maximum performance
 # What this script can do
 • Installs any program listed that you click on using Chocolatey
 
