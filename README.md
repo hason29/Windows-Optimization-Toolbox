@@ -32,7 +32,7 @@ This script is the combination of many scripts and gists from github with featur
 
 • Right-click the PowerShell file that you'd like to run and click on "Run With PowerShell"
 
-• This will allow the script to run without having to do the above steps but Powershell will ask if you're sure you want to run this script.
+
 
 # Disclaimer
 WARNING: I do NOT take responsibility for what may happen to your system! Run scripts at your own risk!
