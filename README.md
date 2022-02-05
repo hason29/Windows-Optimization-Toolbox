@@ -11,7 +11,7 @@ This script is the combination of many scripts and gists from github with featur
 
 • Clean Temp and Log Files
 
-• Essential tweaks for better experience
+• Essential tweaks for better Windows experience
 
 • Gaming Tweaks for gaming performance
 
