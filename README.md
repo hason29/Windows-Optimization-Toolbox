@@ -34,9 +34,7 @@ This script is the combination of many scripts and gists from github with featur
 
 • Or paste this command into Powershell (admin): 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/paint29/Windows-Optimization-Toolbox/main/windowsoptimizationtoolbox.ps1'))
 ```
 # Disclaimer
 WARNING: I do NOT take responsibility for what may happen to your system! Run script at your own risk!
