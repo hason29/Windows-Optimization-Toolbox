@@ -30,7 +30,7 @@ This script is the combination of many scripts and gists from github with featur
 # How to run the script
 • Download the .zip file on the main page of the GitHub and extract the .zip file to your desired location
 
-• Right-click the PowerShell file that you'd like to run and click on "Run With PowerShell"
+• Right-click the PowerShell file and click on "Run With PowerShell"
 
 • Or paste this command into Powershell (admin): 
 ```
