@@ -29,6 +29,8 @@ This script is the combination of many scripts and gists from github with featur
 
 • AMD and NVDIA GPU Tweaks
 
+• MSI Mode
+
 # How to run the script
 • Download the .zip file on the main page of the GitHub and extract the .zip file to your desired location
 
