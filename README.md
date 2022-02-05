@@ -32,8 +32,12 @@ This script is the combination of many scripts and gists from github with featur
 
 • Right-click the PowerShell file that you'd like to run and click on "Run With PowerShell"
 
-
-
+• Or paste this command into Powershell (admin): 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 # Disclaimer
 WARNING: I do NOT take responsibility for what may happen to your system! Run script at your own risk!
 
