@@ -19,6 +19,8 @@ This script is the combination of many scripts and gists from github with featur
 
 • Delay Windows Feature Updates up to 3 years
 
+• Fast animation
+
 • Debloat Windows
 
 • Reinstall MS Store Apps
