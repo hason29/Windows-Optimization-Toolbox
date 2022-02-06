@@ -18,7 +18,7 @@ This script is the combination of many scripts and gists from github with featur
 • Troubleshoot to fix windows problems
 
 • Delay Windows Feature Updates up to 3 years
-# Additional Option
+
 • Debloat Windows
 
 • Reinstall MS Store Apps
