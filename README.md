@@ -46,6 +46,9 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 You can use system restore point created in the beginning of the script to revert changes  
 
 # Disclaimer
-WARNING: I do NOT take responsibility for what may happen to your system! Run script at your own risk!
+I do NOT take responsibility for what may happen to your system! Run script at your own risk!
+
+# Warning!
+Use NVIDIA GPU and AMD GPU Tweaks if you really have if not it will break all your system!
 
 
