@@ -42,15 +42,16 @@ This script is the combination of many scripts and gists from github with featur
 ```
 iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/paint29/Windows-Optimization-Toolbox/main/windowsoptimizationtoolbox.ps1'))
 ```
+# Warning!
+• Use NVIDIA GPU, AMD GPU Tweaks if you really have if not it will break all your system!
+
+• Only use MSI Mode if you have a NVIDIA/AMD graphics card!
+
 # Revert 
 You can use system restore point created in the beginning of the script to revert changes  
 
 # Disclaimer
 I do NOT take responsibility for what may happen to your system! Run script at your own risk!
-
-# Warning!
-• Use NVIDIA GPU, AMD GPU Tweaks if you really have if not it will break all your system!
-• Only use MSI Mode if you have a NVIDIA/AMD graphics card!
 
 
 
