@@ -43,7 +43,7 @@ This script is the combination of many scripts and gists from github with featur
 iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/paint29/Windows-Optimization-Toolbox/main/windowsoptimizationtoolbox.ps1'))
 ```
 # Warning!
-• Use NVIDIA GPU, AMD GPU Tweaks if you really have if not it will break all your system!
+• Use NVIDIA GPU, AMD GPU Tweaks if you really have one if not it will break all your system!
 
 • Only use MSI Mode if you have a NVIDIA/AMD graphics card!
 
