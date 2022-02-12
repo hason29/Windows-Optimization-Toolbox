@@ -49,9 +49,6 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 
 • Only use MSI Mode if you have a NVIDIA/AMD graphics card!
 
-# Revert 
-You can use system restore point created in the beginning of the script to revert changes  
-
 # Disclaimer
 I do NOT take responsibility for what may happen to your system! Run script at your own risk!
 
