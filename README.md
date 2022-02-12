@@ -1,7 +1,6 @@
-# Windows-Optimization-Toolbox
+# Windows-Optimization-Toolbox (Compatible with windows 10 and 11)
 This script is the combination of many scripts and gists from github with features of my own. This script is built to optimize windows for maximum performance
-# What this script can do (Compatible with windows 10 and 11)
-• Installs any program listed that you click on using Chocolatey
+# System Tweaks
 
 • Removed Telemetry
 
@@ -13,27 +12,41 @@ This script is the combination of many scripts and gists from github with featur
 
 • Essential tweaks for better Windows experience
 
-• Gaming Tweaks for gaming performance
-
-• Troubleshoot to fix common windows problems
-
-• Delay Windows Feature Updates up to 3 years
-
 • Fast animation
 
-• Debloat Windows
+....
 
-• Reinstall MS Store Apps
+# Debloat Windows
 
-• Activate Bitsum Highest Performance power plan
+• Debloat / Remove pre-installed app
+
+• Remove Bloatware Reg Keys
+
+• Unpin Titiles From Start Menu
+
+...
+
+# Windows Updates
+ 
+• Change To Security Updates Only
+
+• Disable/Enable Windows Updates
+
+# Other Tweaks
+
+• Gaming Tweaks For Better Gaming Performance
+
+• NVIDIA/AMD GPU Tweaks
 
 • Network Tweaks
 
-• AMD and NVDIA GPU Tweaks
+• CompactOS (LXZ Compression)
 
 • MSI Mode
 
-• CompactOS (LXZ Compression)
+# Program Installation
+
+• Installs any program listed that you click on using Chocolatey
 
 # How to run the script
 • Download the .zip file on the main page of the GitHub and extract the .zip file to your desired location
