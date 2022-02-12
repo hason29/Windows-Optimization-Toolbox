@@ -1,5 +1,5 @@
-# Windows-Optimization-Toolbox (Compatible with windows 10 and 11)
-This script is the combination of many scripts and gists from github with features of my own. This script is built to optimize windows for maximum performance
+# Windows Optimization Toolbox (Compatible with windows 10 and 11)
+This script is the combination of many scripts and gists from github and internet with features of my own. This script is built to optimize windows for maximum performance
 # System Tweaks
 
 • Removed Telemetry
