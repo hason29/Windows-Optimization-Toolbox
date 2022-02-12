@@ -33,6 +33,8 @@ This script is the combination of many scripts and gists from github with featur
 
 • MSI Mode
 
+• CompactOS (LXZ Compression)
+
 # How to run the script
 • Download the .zip file on the main page of the GitHub and extract the .zip file to your desired location
 
