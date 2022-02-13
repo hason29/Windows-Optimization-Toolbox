@@ -53,7 +53,7 @@ This script is the combination of many scripts and gists from github and interne
 
 • Right-click the PowerShell file and click on "Run With PowerShell"
 
-• Or paste this command into Powershell (admin): 
+• Or paste this command into Powershell (Admin): 
 ```
 iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/paint29/Windows-Optimization-Toolbox/main/windowsoptimizationtoolbox.ps1'))
 ```
@@ -63,7 +63,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 • Only use MSI Mode if you have a NVIDIA/AMD graphics card!
 
 # Disclaimer
-I do NOT take responsibility for what may happen to your system! Run script at your own risk!
+I do NOT take responsibility for what may happen to your system! Run the script at your own risk!
 
 
 
