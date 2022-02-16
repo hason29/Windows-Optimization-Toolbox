@@ -57,7 +57,7 @@
 
 • Or paste this command into Powershell (Admin): 
 ```
-iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/paint29/Windows-Optimization-Toolbox/main/toolbox.ps1'))
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/paint29/Windows-Optimization-Toolbox/main/wintoolbox.ps1'))
 ```
 # Warning!
 • Use NVIDIA GPU, AMD GPU Tweaks if you really have one if not it will break all your system!
