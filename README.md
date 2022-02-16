@@ -1,5 +1,7 @@
 # Windows Optimization Toolbox (Compatible with windows 10 and 11)
-This script is the combination of many scripts and gists from github and the internet with features of my own. This script is built to optimize windows for maximum performance
+• This script is the combination of many scripts and gists from github and the internet with features of my own. This script is built to optimize windows for maximum performance
+
+• Before doing anything, Create a "System Restore Point" from Windows Toolbox. just in case if thing does not goes as u like or you want to revert back in previous state. It's Completely Safe to use because everything is reversible
 # System Tweaks
 
 • Removed Telemetry
